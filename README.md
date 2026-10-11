@@ -16,6 +16,13 @@ Used SQL in Databricks to analyse transaction data and developed an interactive 
 - SQL — querying, aggregation, filtering, and analysis
 - Databricks — data exploration and SQL analysis
 - Looker Studio — interactive dashboard development
+ 
+ ## Interactive Dashboard
+
+Explore the interactive Looker Studio dashboard to view
+sales performance, KPIs, product trends, and key findings.
+
+[View Interactive Dashboard]((https://datastudio.google.com/s/jLkyeVNm1E4))
 
 ## Project Workflow
 1. Data exploration
